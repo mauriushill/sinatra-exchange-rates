@@ -11,6 +11,4 @@ get("/") do
 
  parsed_data = JSON.parse(raw_data_string)
 
- 
-
 end
